@@ -1,0 +1,13 @@
+Shape,Pattern,Shade,Count,Eat?
+round,pattern,light,2,Y
+oval,pattern,light,0,Y
+long,pattern,light,3,Y
+round,plain,light,1,Y
+oval,plain,light,3,N
+long,plain,light,2,Y
+round,pattern,dark,9,N
+oval,pattern,dark,0,Y
+long,pattern,dark,2,Y
+round,plain,dark,1,N
+oval,plain,dark,11,N
+long,plain,dark,2,Y

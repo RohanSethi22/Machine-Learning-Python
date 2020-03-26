@@ -1,0 +1,13 @@
+Shape,Pattern,Shade,Count
+round,pattern,light,2
+oval,pattern,light,0
+long,pattern,light,3
+round,plain,light,1
+oval,plain,light,3
+long,plain,light,2
+round,pattern,dark,9
+oval,pattern,dark,0
+long,pattern,dark,2
+round,plain,dark,1
+oval,plain,dark,11
+long,plain,dark,2
